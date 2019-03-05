@@ -1,10 +1,10 @@
 # Examples of Canonical (and Minimal) Liftings
 
-All files here are in (MAGMA)[http://magma.maths.usyd.edu.au/magma/]
+All files here are in [MAGMA](http://magma.maths.usyd.edu.au/magma/)
 format.
 
 These files can also be found at
-(http://www.math.utk.edu/~finotti/can_lifts/)[http://www.math.utk.edu/~finotti/can_lifts/]. 
+[http://www.math.utk.edu/~finotti/can_lifts/](http://www.math.utk.edu/~finotti/can_lifts/). 
 
 
 ## Canonical Liftings
